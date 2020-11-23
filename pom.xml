@@ -8,43 +8,16 @@
     <artifactId>base-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>api-bese-demo-boss</module>
-        <module>api-bese-demo-driver</module>
-        <module>api-bese-demo-merchant</module>
-        <module>api-base-demo-user</module>
-        <module>api-bese-demo-agent</module>
-        <module>rpc-api-base-demo-core</module>
-        <module>rpc-api-base-demo-msg</module>
-        <module>rpc-api-base-demo-user</module>
-        <module>rpc-api-base-demo-order</module>
-        <module>rpc-api-base-demo-merchant</module>
-        <module>rpc-api-base-demo-agent</module>
-        <module>rpc-api-base-demo-boss</module>
-        <module>rpc-api-base-demo-finance</module>
-        <module>rpc-api-base-demo-pay</module>
-        <module>rpc-api-base-demo-map</module>
-        <module>rpc-base-demo-core</module>
-        <module>rpc-base-demo-msg</module>
-        <module>rpc-base-demo-user</module>
-        <module>rpc-base-demo-order</module>
-        <module>rpc-base-demo-merchant</module>
-        <module>rpc-base-demo-agent</module>
-        <module>rpc-base-demo-boss</module>
-        <module>rpc-base-demo-finance</module>
-        <module>rpc-base-demo-pay</module>
-        <module>rpc-base-demo-map</module>
-        <module>service-base-demo</module>
-        <module>service-demo-core</module>
-        <module>service-demo-msg</module>
-        <module>service-demo-user</module>
-        <module>service-demo-order</module>
-        <module>service-demo-merchant</module>
-        <module>service-demo-agent</module>
-        <module>service-demo-boss</module>
-        <module>service-demo-finance</module>
-        <module>service-demo-pay</module>
-        <module>service-demo-map</module>
-        <module>sur-service-base-demo</module>
+        <module>api-base-user</module>
+        <module>api-base-driver</module>
+        <module>api-base-boss</module>
+        <module>api-base-merchant</module>
+        <module>api-base-agent</module>
+        <module>service-base-core</module>
+        <module>service-base-order</module>
+        <module>service-base-msg</module>
+        <module>service-base-pay</module>
+        <module>service-base-finance</module>
     </modules>
     <packaging>pom</packaging>
 
